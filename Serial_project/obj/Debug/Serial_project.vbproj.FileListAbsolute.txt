@@ -1,0 +1,10 @@
+c:\users\rishabhraj281\documents\visual studio 2013\Projects\Serial_project\Serial_project\bin\Debug\Serial_project.exe.config
+C:\Users\rishabhraj281\Documents\Visual Studio 2013\Projects\Serial_project\Serial_project\obj\Debug\Serial_project.Form1.resources
+C:\Users\rishabhraj281\Documents\Visual Studio 2013\Projects\Serial_project\Serial_project\obj\Debug\Serial_project.Resources.resources
+C:\Users\rishabhraj281\Documents\Visual Studio 2013\Projects\Serial_project\Serial_project\obj\Debug\Serial_project.vbproj.GenerateResource.Cache
+C:\Users\rishabhraj281\Documents\Visual Studio 2013\Projects\Serial_project\Serial_project\bin\Debug\Serial_project.exe
+C:\Users\rishabhraj281\Documents\Visual Studio 2013\Projects\Serial_project\Serial_project\bin\Debug\Serial_project.pdb
+C:\Users\rishabhraj281\Documents\Visual Studio 2013\Projects\Serial_project\Serial_project\bin\Debug\Serial_project.xml
+C:\Users\rishabhraj281\Documents\Visual Studio 2013\Projects\Serial_project\Serial_project\obj\Debug\Serial_project.exe
+C:\Users\rishabhraj281\Documents\Visual Studio 2013\Projects\Serial_project\Serial_project\obj\Debug\Serial_project.xml
+C:\Users\rishabhraj281\Documents\Visual Studio 2013\Projects\Serial_project\Serial_project\obj\Debug\Serial_project.pdb
