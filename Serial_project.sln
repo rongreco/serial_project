@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Serial_project", "Serial_project\Serial_project.vcxproj", "{C31C5DDA-92F8-47C0-9E4E-C2F7A889E828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31C5DDA-92F8-47C0-9E4E-C2F7A889E828}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C31C5DDA-92F8-47C0-9E4E-C2F7A889E828}.Debug|Win32.Build.0 = Debug|Win32
+		{C31C5DDA-92F8-47C0-9E4E-C2F7A889E828}.Release|Win32.ActiveCfg = Release|Win32
+		{C31C5DDA-92F8-47C0-9E4E-C2F7A889E828}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

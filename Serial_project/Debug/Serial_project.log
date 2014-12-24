@@ -1,0 +1,20 @@
+﻿Build started 13-12-2014 19:37:45.
+     1>Project "C:\Users\rishabhraj281\Documents\Visual Studio 2010\Projects\Serial_project\Serial_project\Serial_project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Serial_project.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Serial_project.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Serial_project.cpp /clr:nostdlib 
+         Serial_project.cpp
+     1>c:\users\rishabhraj281\documents\visual studio 2010\projects\serial_project\serial_project\Form1.h(205): warning C4129: 'D' : unrecognized character escape sequence
+     1>c:\users\rishabhraj281\documents\visual studio 2010\projects\serial_project\serial_project\Form1.h(205): warning C4129: 'V' : unrecognized character escape sequence
+     1>c:\users\rishabhraj281\documents\visual studio 2010\projects\serial_project\serial_project\Form1.h(205): warning C4129: 'P' : unrecognized character escape sequence
+     1>c:\users\rishabhraj281\documents\visual studio 2010\projects\serial_project\serial_project\Form1.h(205): warning C4129: 'S' : unrecognized character escape sequence
+     1>c:\users\rishabhraj281\documents\visual studio 2010\projects\serial_project\serial_project\Form1.h(205): error C3861: 'ReadAllText': identifier not found
+     1>Done Building Project "C:\Users\rishabhraj281\Documents\Visual Studio 2010\Projects\Serial_project\Serial_project\Serial_project.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.26
